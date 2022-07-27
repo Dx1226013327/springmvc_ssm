@@ -60,4 +60,8 @@ public class MyTest {
         int num = userService.deleteUserByIdList(array);
         System.out.println(num);
     }
+
+    public static void main(String[] args) {
+        System.out.println("测试Git");
+    }
 }
