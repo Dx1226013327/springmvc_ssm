@@ -64,5 +64,6 @@ public class MyTest {
     public static void main(String[] args) {
         System.out.println("测试Git");
         System.out.println("git版本2");
+        System.out.println("hello 4");
     }
 }
