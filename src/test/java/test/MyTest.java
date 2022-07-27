@@ -65,5 +65,6 @@ public class MyTest {
         System.out.println("测试Git");
         System.out.println("git版本2");
         System.out.println("hello 4");
+        System.out.println("hot-fix test");
     }
 }
